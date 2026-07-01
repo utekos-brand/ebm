@@ -1,23 +1,6 @@
 ---
 id: binet-field-binet-field-the-long-and-the-short-of-it
 title: The Long And The Short of It
-description: Les Binet, Head of Effectiveness, adam\&eve DDB Peter Field,
-  Marketing Consultant
-category: 03-marketing-science
-author: binet-field
-domain: marketing science
-docs_index: /agents.txt
-status: complete
-last_updated: 2026-06-22
-llm_companion: 03-marketing-science/binet-field/binet-field_binet-field-the-long-and-the-short-of-it.llm.md
-ai_directive: Marketing science reference — cite author and source when quoting.
-dependencies: []
-readability:
-  flesch_reading_ease: 32.8
-  grade_level: 13.6
-  sentence_count: 1251
-  word_count: 24603
-  syllable_count: 44800
 ---
 
 # [The Long And The Short of It](#the-long-and-the-short-of-it)
@@ -27,18 +10,12 @@ readability:
 Les Binet, Head of Effectiveness, adam\&eve DDB
 Peter Field, Marketing Consultant
 
-\[Image: A close-up photograph of a person's hand holding a small, dark, shiny object between their thumb and index finger. The background is a blurry, light-colored surface.]
-
 “Long-term results cannot be achieved by piling short-term results on short-term results.”
 Peter Drucker, Post-Capitalist Society, 1993.
-
-\[Image: A close-up photograph of a person's hand holding a small, dark, shiny object between their thumb and index finger. The background is a blurry, light-colored surface.]
 
 ### [About the authors](#about-the-authors)
 
 - Les Binet, Head of Effectiveness, adam\&eve DDB
-
-\[Image: Les Binet]
 
 Having read Physics at Oxford, Les took an M. Phil. in Artificial Intelligence at Edinburgh University. His research there focused on the use of computer models to study the way human beings process language. In 1987, he joined the Account Planning department at BMP (now adam\&eve DDB), where he turned his modelling skills to the problem of measuring the effects of advertising.
 
@@ -49,8 +26,6 @@ Since 2001, he has served on the IPA’s Value of Creativity Group, helping to p
 <Les.Binet@adamandeveddb.com>
 
 - Peter Field, Marketing Consultant
-
-\[Image: Peter Field]
 
 A graduate of Cambridge, Peter spent 15 years as a strategic planner in advertising, working at BMP (now adam\&eve DDB) and Abbott Mead Vickers BBDO before going on to manage the planning departments of Bates and Grey. For the last 15 years he has pursued a consultancy role, as well as providing training for the marketing and communications disciplines. Over the last 30 years he has worked in most categories and on over 100 brands. In the mid 1990s, as a practitioner member of the IPA’s Value of Creativity Group, Peter advised on the development of the IPA Databank of effectiveness case study data and has been involved in its evolution and analysis ever since.
 
@@ -64,7 +39,6 @@ Published works based on the IPA Databank include: a chapter to the Sage Handboo
 
 - Janet Hull, Chair of IPA Databank Group
 
-\[Image: Janet Hull]
 
 The IPA Databank, now in its 32nd year, continues to support ground-breaking research into effectiveness. The pioneering paper – Marketing in the Era of Accountability - was published in 2007, establishing the value of the data and puncturing a great many myths about what drives effectiveness.
 
@@ -113,7 +87,7 @@ The section covers the introduction to "The Long And The Short of It" by Les Bin
 
 ### [The data and the methodology](#the-data-and-the-methodology)
 
-### [What is meant by Efectivenes and Eficiency?](#what-is-meant-by-efectivenes-and-eficiency)
+### [What is meant by Effectiveness and Eficiency?](#what-is-meant-by-effectiveness-and-eficiency)
 
 Throughout this report frequent reference will be made to measures of effectiveness and of efficiency.
 
