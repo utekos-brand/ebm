@@ -127,4 +127,5 @@ Marketing decisions depend on knowledge about consumers, how they buy the catego
 * **When?**
 * **How much?**
 
-This is information that you, as a marketing professional,
+This is information that you, as a marketing professional, will never stop analysing
+in order to keep up your understanding of your market.
