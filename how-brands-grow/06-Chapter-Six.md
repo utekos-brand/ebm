@@ -1,4 +1,4 @@
-# Kapittel 7: Å oppnå rekkevidde
+# Kapittel 6: Achieving Reach
 
 **Jenni Romaniuk**
 
