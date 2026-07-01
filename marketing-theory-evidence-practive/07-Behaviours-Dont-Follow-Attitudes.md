@@ -73,3 +73,58 @@ This discovery has been replicated and extended many times since, with several P
 Consumers’ responses vary, in a probabilistic way. This is similar to how the result of a coin toss varies (either heads or tails) but each coin tossed has a probability of 50 per cent of landing on either side; there is lots of variation from toss to toss, but an overall pattern: 50/50. The probabilistic behaviour in market research surveys is most likely because consumers’ responses depend on their memories, which aren’t perfect, and so which particular brand comes to mind in any instance varies. Professor Frank Bass once speculated that the human brain might have an inherently probabilistic aspect to it (1974); decades later, this discovery supports his view. This doesn’t mean that consumers are doing complex calculations in their heads; it just means that which brand comes to mind and which one they choose to tick on the survey is due to many highly variable causes, some inside the brain (such as particular synapses firing in the brain at just the right time) and others out in the environment (such as seeing a brand’s pack in the rubbish bin shortly before doing the survey).
 
 This also strongly suggests that brand attitudes, while enduring, are typically not strongly held. In the same way that we are rarely 100 per cent behaviourally loyal to one brand, neither are we 100 per cent attitudinally loyal—sometimes we say one brand is best and sometimes another, because we like them both, but not in a particularly passionate way.
+
+# Conclusion
+
+Buying behaviour, whether it is in an industrial setting, buying online or shopping in a store, follows certain fundamental patterns. Buyers are usually buying from categories that they know quite well, and they know a few brands in the category far better than any others. They loyally repeat-buy these brands and switch around between them.
+
+It seems that for brand buying we bring our attitudes into alignment with our behaviour more often than we seek to bring our behaviour in line with our attitudes. It is often more difficult to change behaviour to match a newly changed attitude. So attitudes have a weak impact on changing behaviour. But they also have a reinforcing effect on existing behaviour.
+
+For example, buying a brand reinforces the attitude—as it reminds us that we like the brand—which in turn reinforces repeat-buying behaviour. Much marketing is concerned with reinforcing, not changing, attitudes: encouraging consumers to keep on loyally buying a brand.
+
+Attitudes and intentions can sometimes be an influence for behaviour change, but they tend to be weak influences, also requiring changes in situation to bring about behaviour change. So, when marketers want to change behaviour—for example, get more people to start buying their brand—they need to focus more on the situational and environmental drivers of behaviour.
+
+They need to build **mental and physical availability** for their brand to make it easier for these people to buy. Advertising is used to keep reminding people that the brand exists and how it might fit into their lives. Other parts of the marketing mix are used to make the brand easy to notice, buy and use.
+
+---
+
+## TABLE 2.3: The New Consumer Behaviour Model
+
+### Past World View
+
+| Concept                   | Description                                         |
+| ------------------------- | --------------------------------------------------- |
+| Attitude drives behaviour | Traditional belief that attitudes determine actions |
+| Brand loyals              | Deeply committed buyers                             |
+| Brand switchers           | Buyers who switch between brands                    |
+| Involvement               | Rational, involved viewers                          |
+
+---
+
+### New World View
+
+| Concept                    | Description                                            |
+| -------------------------- | ------------------------------------------------------ |
+| Behaviour drives attitude  | Behaviour shapes attitudes                             |
+| Loyal switchers            | Consumers who switch but remain within a set of brands |
+| Uncaring, cognitive misers | Low-effort decision-makers                             |
+| Heuristics                 | Emotional, distracted viewers                          |
+
+---
+
+Marketers should be on the lookout for barriers to the behaviour that they want to bring about. The industry insight *‘Mars and the Russian rouble crisis’* (page 47) provides an excellent example of how a company removed a barrier for their customers (or retailers, in this case) and turned a problem into an opportunity.
+
+There will be different barriers for different customers; for some the brand will be too far away, for others it is one that they rarely think of, and for others it is missing a feature they want.
+
+---
+
+## Key Marketing Questions
+
+Marketing decisions depend on knowledge about consumers, how they buy the category and how they come into contact with the brand and its advertising. In short:
+
+* **Who buys?**
+* **Where?**
+* **When?**
+* **How much?**
+
+This is information that you, as a marketing professional,
